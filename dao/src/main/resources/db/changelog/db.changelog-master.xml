@@ -52,9 +52,7 @@
     <include file="db/changelog/logs/ch-social-network-Lehkyi.xml"/>
     <include file="db/changelog/logs/ch_rating_statictics_Dovganyuk.xml"/>
     <include file="/db/changelog/logs/ch-user-username-column-type.xml"/>
-    <include file="/db/changelog/logs/ch-tips-and-tricks-translations-Petryshak.xml"/>
     <include file="db/changelog/logs/ch-habits-refactor-Kravchenko.xml"/>
-    <include file="/db/changelog/logs/ch-change-column-name-goals-Petryshak.xml"/>
     <include file="db/changelog/logs/ch-change-custom-goals-Khonko.xml"/>
     <include file="db/changelog/logs/ch-change-goals-Khonko.xml"/>
     <include file="db/changelog/logs/ch-habits-new-fields-Kravchenko.xml"/>
