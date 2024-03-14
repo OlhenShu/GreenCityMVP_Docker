@@ -6,12 +6,11 @@
         http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.4.xsd">
 
     <changeSet author="Olena Petryshak" id="1">
-        <renameColumn columnDataType="String"
-                      newColumnName="content"
-                      oldColumnName="text"
-                      schemaName="public"
-                      tableName="goal_translations"/>
+        <renameColumn
+                newColumnName="content"
+                oldColumnName="text"
+                schemaName="public"
+                tableName="goal_translations"/>
     </changeSet>
 
 </databaseChangeLog>
-
